@@ -10,8 +10,6 @@ I'm a Statistics student passionate about transforming data into meaningful insi
 * 💡 Interested in Data Science, Business Analytics, and Machine Learning
 * 🎯 Goal: Build impactful data-driven solutions
 
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -35,8 +33,6 @@ I'm a Statistics student passionate about transforming data into meaningful insi
 * RStudio
 * VS Code
 
----
-
 ## 📚 Currently Learning
 
 * Advanced SQL
@@ -44,8 +40,6 @@ I'm a Statistics student passionate about transforming data into meaningful insi
 * Machine Learning
 * Data Cleaning & Exploratory Data Analysis
 * Statistical Modeling
-
----
 
 ## 📌 Featured Projects
 
@@ -56,22 +50,13 @@ Here are some of the projects I've been working on:
 * 🐍 Python Automation
 * 📉 Data Visualization Dashboards
 
-> More exciting projects coming soon!
-
----
-
-
 ## 📫 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/vishal-pathak-6683542b5/
 * Email: vishalpathakwork22@gmail.com
 
----
-
+  
 ## 💭 Quote
-
 > "Without data, you're just another person with an opinion." — W. Edwards Deming
-
----
 
 ⭐ If you like my work, consider giving a star to my repositories!
